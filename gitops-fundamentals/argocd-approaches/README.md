@@ -11,7 +11,6 @@ This folder covers the **three primary methods** of deploying applications with 
 | [`cli_approach.md`](./cli_approach.md)                 | Deploy an app using `argocd` CLI commands (Apache example)                            |
 | [`UI_approach.md`](./UI_approach.md)                   | Deploy an app through ArgoCD Web Dashboard (Nginx example)                            |
 | [`declarative_approach.md`](./declarative_approach.md) | Deploy using `Application` YAML manifests — the true GitOps way (Online Shop example) |
-| `outputs/`                                             | Directory for output screenshots                                                      |
 
 ---
 
