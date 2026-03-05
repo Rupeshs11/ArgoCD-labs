@@ -71,7 +71,7 @@ gitops-fundamentals/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/argocd-demos.git
+git clone https://github.com/beleiver-11/argocd-demos.git
 cd argocd-demos
 
 # 2. Run the automated setup script
