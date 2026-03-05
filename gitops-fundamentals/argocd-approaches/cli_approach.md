@@ -118,7 +118,7 @@ Run this command to create an ArgoCD application:
 
 ```bash
 argocd app create apache-app \
-  --repo https://github.com/<your-username>/argocd-demos.git \
+  --repo https://github.com/beleiver-11/argocd-demos.git \
   --path cli_approach/apache \
   --dest-server https://<your_added_cluster_url> \
   --dest-namespace default \
@@ -127,7 +127,6 @@ argocd app create apache-app \
   --auto-prune
 ```
 
-- Replace `<your-username>` with your GitHub username.
 - Replace `<your_added_cluster_url>` with the cluster you registered (e.g., `https://172.31.xx.xx:port` or `https://kubernetes.default.svc`).
 
 #### Explanation of Flags
