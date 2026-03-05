@@ -37,7 +37,7 @@ The **App of Apps** pattern is a powerful ArgoCD feature where a single **root A
 
 ```yaml
 source:
-  repoURL: https://github.com/<your-username>/argocd-demos.git
+  repoURL: https://github.com/beleiver-11/argocd-demos.git
   targetRevision: main
   path: app_of_apps/apps # Directory containing child Application YAMLs
 destination:
