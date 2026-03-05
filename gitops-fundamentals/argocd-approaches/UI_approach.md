@@ -128,7 +128,7 @@ Push these files to your GitHub repository.
    - **Check:** ✅ `PRUNE`
 
 3. Fill in the **Source** section:
-   - **Repository URL:** `https://github.com/<your-username>/argocd-demos.git`
+   - **Repository URL:** `https://github.com/beleiver-11/argocd-demos.git`
    - **Revision:** `main` (or `HEAD`)
    - **Path:** `ui_approach/nginx`
 
