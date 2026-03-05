@@ -41,7 +41,7 @@ Scans a Git repo directory and creates one Application for each sub-directory ma
 ```yaml
 generators:
   - git:
-      repoURL: https://github.com/<your-username>/argocd-demos.git
+      repoURL: https://github.com/beleiver-11/argocd-demos.git
       revision: main
       directories:
         - path: "git_generator/*"
